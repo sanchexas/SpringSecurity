@@ -1,7 +1,7 @@
-package com.flamexander.spring.security.cookbook.dao.controllers;
+package com.example.spring.security.cookbook.dao.controllers;
 
-import com.flamexander.spring.security.cookbook.dao.entities.User;
-import com.flamexander.spring.security.cookbook.dao.services.UserService;
+import com.example.spring.security.cookbook.dao.entities.User;
+import com.example.spring.security.cookbook.dao.services.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

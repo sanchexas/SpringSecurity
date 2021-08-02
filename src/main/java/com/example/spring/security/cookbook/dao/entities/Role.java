@@ -1,4 +1,4 @@
-package com.flamexander.spring.security.cookbook.dao.entities;
+package com.example.spring.security.cookbook.dao.entities;
 
 import lombok.Data;
 

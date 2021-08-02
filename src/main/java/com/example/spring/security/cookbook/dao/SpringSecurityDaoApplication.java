@@ -1,4 +1,4 @@
-package com.flamexander.spring.security.cookbook.dao;
+package com.example.spring.security.cookbook.dao;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

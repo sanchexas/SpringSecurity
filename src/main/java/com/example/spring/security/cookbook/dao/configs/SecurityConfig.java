@@ -1,6 +1,6 @@
-package com.flamexander.spring.security.cookbook.dao.configs;
+package com.example.spring.security.cookbook.dao.configs;
 
-import com.flamexander.spring.security.cookbook.dao.services.UserService;
+import com.example.spring.security.cookbook.dao.services.UserService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.context.annotation.Bean;
